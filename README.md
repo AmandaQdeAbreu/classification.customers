@@ -3,7 +3,7 @@
   <p>Projeto de classficação de clientes desenvolvido por mim durante o curso de Classificação da Alura.</p>
 
   ## Algoritmos utilizados:
-  Dummy,
-  Decision Tree,
-  KNN
+  - Dummy
+  - Decision Tree
+  - KNN
   
